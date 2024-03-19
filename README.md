@@ -1,7 +1,7 @@
 # Feather-Mechanic-HTML
 Feather mechanic made with Construct 3 using HTML, CSS and JavaScript, for a plataform game.<br>
 The number of feathers are the number of jumps that the bird can do.<br>
-Also, the bird can glide holding the jump button.<br><br>
+Also, the bird can glide holding the jump button.<br>
 
 NW.dll needed to run the build.<br>
 https://www.dllme.com/dll/files/nw
